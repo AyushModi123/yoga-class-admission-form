@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+yoga-admission-venv
+test.db
