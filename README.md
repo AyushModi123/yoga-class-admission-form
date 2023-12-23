@@ -27,7 +27,7 @@ ER Diagram-
 
 ![image](https://github.com/AyushModi123/yoga-class-admission-form/assets/99743679/a6e6544f-5009-4d05-9d56-1b64db38ce42)
 
-Webpage-
+Webpage created on streamlit-
 
 ![image](https://github.com/AyushModi123/yoga-class-admission-form/assets/99743679/2e57995e-dc00-4648-b00e-84459619b016)
 
